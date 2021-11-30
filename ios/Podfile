@@ -12,6 +12,12 @@ target 'RealmGit' do
     :hermes_enabled => false
   )
 
+  pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
+
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
+  pod 'RealmJS', :path => '../node_modules/realm'
+
   target 'RealmGitTests' do
     inherit! :complete
     # Pods for testing
