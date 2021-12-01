@@ -14,14 +14,7 @@
 [![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-basic.svg)](https://choosealicense.com/licenses/mit)
 
 <!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
-  </a>
 
-  <h3 align="center">Template Rocketseat Basic</h3>
-</p>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -252,4 +245,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
 
-Rocketseat - [Github](https://github.com/rocketseat) - **oi@rocketseat.com.br**
+ticianacapris - [Github](https://github.com/ticianacapris) -
